@@ -1,4 +1,4 @@
-
+The is the first ever algorand project that will succeed pass
 Copyright Fortior Blockchain, LLLP 2021
 
 Licensed under the Apache License, Version 2.0 (the "License");
